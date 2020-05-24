@@ -5,8 +5,10 @@
  * <p>
  * <p>
  * <p>
- * This class is created just for testing purpose
  *
+ * This is basic implementation of Linked List which supports <code>int</code> data-type
+ * This class is created just for testing purpose
+ * You can write your code to test the implementation of Data Structure
  * <p>
  * ************************************************************
  **/
